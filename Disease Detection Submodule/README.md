@@ -1,5 +1,5 @@
 ### Description
-
+This consists of the PyTorch implementation of the diseased leaf detection phase of the project
 
 ### Steps
 *   Load and preprocess the image dataset
