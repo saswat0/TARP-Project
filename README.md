@@ -11,4 +11,6 @@ PlantVillage Dataset
 
 [Download Here](https://www.kaggle.com/emmarex/plantdisease)
 
-![img](Report/WorkFlow.jpg)
+### Project Workflow
+![img](Report/Workflow.jpg)
+

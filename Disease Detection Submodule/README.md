@@ -1,3 +1,6 @@
+### Description
+
+
 ### Steps
 *   Load and preprocess the image dataset
 *   Train the image classifier on your dataset
