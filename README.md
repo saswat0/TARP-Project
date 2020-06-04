@@ -10,3 +10,5 @@ Official github repo for TARP Project 2019-20
 PlantVillage Dataset 
 
 [Download Here](https://www.kaggle.com/emmarex/plantdisease)
+
+![img](Report/WorkFlow.jpg)
