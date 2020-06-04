@@ -11,6 +11,11 @@ PlantVillage Dataset
 
 [Download Here](https://www.kaggle.com/emmarex/plantdisease)
 
+### Tasks
+- [x] Deep Learning Code for Disease Detection
+- [x] Drone flight control
+- [x] Map Generating UI
+
 ### Project Workflow
 ![img](Report/Workflow.jpg)
 
